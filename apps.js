@@ -1,7 +1,7 @@
 const http = require('node:http');
 
 const hostname = '127.0.0.1';
-const port = 3000;
+const port = 443;
 
 const server = http.createServer((req, res) => {
   if (req.type != 'GET'){
