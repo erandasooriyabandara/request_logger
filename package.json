@@ -1,0 +1,9 @@
+{
+  "name": "request_logger",
+  "version": "1.0.0",
+  "description": "A simple app to log the request body",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
